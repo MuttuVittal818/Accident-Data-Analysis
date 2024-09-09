@@ -1,6 +1,6 @@
 Jupyter notebook, 
                Any code editor(eg. vs code), 
-               streamlit pip installed in your conda evn.
+               Streamlit pip installed in your conda evn.
                <br>
                App running link
                <br>
